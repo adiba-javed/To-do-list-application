@@ -1,2 +1,2 @@
 # To-do-list-application
-aboutto built to do list application in python
+about to built to do list application in python
